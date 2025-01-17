@@ -42,5 +42,8 @@
     "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^5.10.0"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  }
 }
